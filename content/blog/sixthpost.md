@@ -5,4 +5,4 @@ tags:
   - posts
 ---
 
-To be honest, I think eleventy useless thing.
+To be honest, I think eleventy useful thing.
